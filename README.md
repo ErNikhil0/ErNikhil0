@@ -2,6 +2,8 @@
 
 ### MERN Stack Developer | Frontend Enthusiast | Problem Solver
 
+![Animated Header](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 ---
 
 ## 🚀 About Me
@@ -12,10 +14,13 @@ I'm a passionate MERN stack developer with a love for building efficient, user-f
 
 ## 💻 Tech Stack
 
-- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools**: Git, GitHub, Vercel, Postman
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</div>
 
 ---
 
@@ -27,13 +32,25 @@ I'm a passionate MERN stack developer with a love for building efficient, user-f
 ---
 
 ## 📫 Connect with Me
-- **Email**: raghavnikhil9350@gmail.com
+
+<div align="center">
+ <a href="mailto:raghavnikhil9350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+### ✨ Fun Fact
+
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
