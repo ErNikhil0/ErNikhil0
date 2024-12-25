@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nikhil! 👋
 
-<!--
-**ErNikhil0/ErNikhil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Frontend Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate MERN stack developer with a love for building efficient, user-friendly, and scalable web applications. I enjoy learning new technologies and constantly improving my skills to deliver top-notch solutions. Whether it's creating responsive UIs or designing robust backend systems, I strive for excellence in every project.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, Vercel, Postman
+
+---
+
+## 🌱 Currently Learning
+
+- Angular
+- Advanced Next.js
+
+---
+
+## 📫 Connect with Me
+- **Email**: raghavnikhil9350@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### Thanks for visiting my profile! Let's build something amazing together. 🚀
